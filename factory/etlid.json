@@ -1,0 +1,9 @@
+{
+	"name": "etlid",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a53c574b-ce05-4e9d-877e-ec8e9ddc0aa2",
+		"tenantId": "cc58d142-6d37-48ef-95ee-a655d44f59f6"
+	}
+}
